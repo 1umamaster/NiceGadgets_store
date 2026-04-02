@@ -6,8 +6,6 @@ A modern, responsive e-commerce web application for browsing and purchasing tech
 
 [🚀 View Live Demo](https://1umamaster.github.io/NiceGadgets_store/)
 
-> **Note:** The link is publicly accessible.
-
 ## Design Reference
 
 The application UI/UX is based on a professional design mockup:
